@@ -38,6 +38,6 @@ The number of stops it takes to have all the people on board with the latest gos
 
 **Example 2: never**
 
-##How run the test
+## How run the test
 
 For run the test execute class: **VisitStore.java** as Java Application
