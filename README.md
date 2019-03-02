@@ -32,4 +32,6 @@ Output Description
 
 The number of stops it takes to have all the people on board with the latest gossips. If there is even a single person who does not have all the gossips by the end of the day, the answer is never.
 
-##### For run the test execute class: VisitStore.java as Java Application
+##How run the test
+
+For run the test execute class: **VisitStore.java** as Java Application
