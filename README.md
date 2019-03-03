@@ -41,3 +41,8 @@ The number of stops it takes to have all the people on board with the latest gos
 ## How run the test
 
 For run the test execute class: **VisitStore.java** as Java Application
+
+#### Development environment
+  - Eclipse Version: 2018-12 (4.10.0)
+  - JRE 1.8
+
